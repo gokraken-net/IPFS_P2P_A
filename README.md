@@ -1,4 +1,4 @@
-qBittorrent - A BitTorrent client in Qt
+IPFS client
 ------------------------------------------
 
 [![GitHub Actions CI Status](https://github.com/qbittorrent/qBittorrent/actions/workflows/ci_ubuntu.yaml/badge.svg)](https://github.com/qbittorrent/qBittorrent/actions)
